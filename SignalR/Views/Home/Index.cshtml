@@ -1,0 +1,58 @@
+﻿<h1>Employees</h1>
+
+<table class="table">
+    
+        <thead>
+            <tr>
+                <th>Action</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Salary</th>
+            </tr>
+        </thead>
+        <tbody data-bind="foreach: employees">
+            <tr data-bind="template: {name: $root.displayMode ,data: $data}"></tr>
+        </tbody>
+    </table>
+
+
+    <script type="text/html" id="read-template">
+        <td>
+            <a href="#" class="btn" data-bind="click: $root.edit">Edit</a>
+          
+        </td>
+        
+
+        <td data-bind="text: Name "> </td>
+        <td data-bind="text: Email "> </td>
+        <td data-bind="text: Salary "> </td>
+
+    </script>
+
+    <script type="text/html" id="edit-template">
+        <td>
+            <a class="btn btn-success" data-bind="click: $root.done"> Done</a>
+
+
+        </td>
+        <td><input type="text" data-bind="value: Name " /> </td>
+        <td><input type="text" data-bind="value: Email " /> </td>
+        <td><input type="text" data-bind="value: Salary " /> </td>
+    </script>
+
+
+   
+
+
+    @section scripts {
+
+
+        <script src="~/Scripts/knockout-3.4.0.js"></script>
+
+        <script src="~/Scripts/jquery.signalR-2.1.2.min.js"></script>
+        <script src="/signalr/hubs"></script>
+       
+<script src="~/App/EmployeeViewModel.js"></script>
+
+
+    }

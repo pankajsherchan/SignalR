@@ -1,0 +1,334 @@
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\ApplicationInsights.config
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\roslyn\csc.exe
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\roslyn\csc.exe.config
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\roslyn\csc.rsp
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\roslyn\csi.exe
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\roslyn\csi.rsp
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\roslyn\System.AppContext.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\roslyn\System.Console.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\roslyn\vbc.exe
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\roslyn\vbc.exe.config
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\roslyn\vbc.rsp
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\SignalR.dll.config
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\SignalR.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\SignalR.pdb
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Antlr3.Runtime.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\EntityFramework.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\EntityFramework.SqlServer.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Microsoft.AI.Web.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Microsoft.AspNet.OData.Extensions.ODataQueryMapper.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Microsoft.Data.Edm.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Microsoft.Data.OData.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Microsoft.OData.Core.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Microsoft.OData.Edm.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Microsoft.Owin.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Microsoft.Owin.Security.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Microsoft.Spatial.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Newtonsoft.Json.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Owin.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\System.Net.Http.Formatting.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\System.Spatial.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\System.Web.Cors.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\System.Web.Helpers.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\System.Web.Http.Cors.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\System.Web.Http.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\System.Web.Http.OData.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\System.Web.Http.Tracing.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\System.Web.Http.WebHost.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\System.Web.Mvc.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\System.Web.OData.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\System.Web.Optimization.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\System.Web.Razor.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\System.Web.WebPages.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\WebGrease.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Antlr3.Runtime.pdb
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\EntityFramework.xml
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\EntityFramework.SqlServer.xml
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Microsoft.AI.Web.xml
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Microsoft.Data.Edm.xml
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Microsoft.Data.OData.xml
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Microsoft.OData.Core.xml
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Microsoft.OData.Edm.xml
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Microsoft.Owin.xml
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Microsoft.Owin.Security.xml
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Microsoft.Spatial.xml
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\Newtonsoft.Json.xml
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\System.Spatial.xml
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\System.Web.Http.Cors.xml
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\System.Web.Http.OData.xml
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\System.Web.Http.Tracing.xml
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\System.Web.OData.xml
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\System.Net.Http.Formatting.xml
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\System.Web.Helpers.xml
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\System.Web.Http.xml
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\System.Web.Http.WebHost.xml
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\System.Web.Mvc.xml
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\System.Web.Optimization.xml
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\System.Web.Razor.xml
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\System.Web.WebPages.xml
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\de\Microsoft.OData.Core.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\es\Microsoft.OData.Core.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\fr\Microsoft.OData.Core.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\it\Microsoft.OData.Core.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\ja\Microsoft.OData.Core.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\ko\Microsoft.OData.Core.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\ru\Microsoft.OData.Core.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\zh-Hans\Microsoft.OData.Core.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\zh-Hant\Microsoft.OData.Core.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\de\Microsoft.OData.Edm.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\es\Microsoft.OData.Edm.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\fr\Microsoft.OData.Edm.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\it\Microsoft.OData.Edm.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\ja\Microsoft.OData.Edm.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\ko\Microsoft.OData.Edm.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\ru\Microsoft.OData.Edm.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\zh-Hans\Microsoft.OData.Edm.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\zh-Hant\Microsoft.OData.Edm.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\de\Microsoft.Spatial.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\es\Microsoft.Spatial.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\fr\Microsoft.Spatial.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\it\Microsoft.Spatial.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\ja\Microsoft.Spatial.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\ko\Microsoft.Spatial.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\ru\Microsoft.Spatial.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\zh-Hans\Microsoft.Spatial.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\zh-Hant\Microsoft.Spatial.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\de\System.Spatial.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\es\System.Spatial.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\fr\System.Spatial.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\it\System.Spatial.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\ja\System.Spatial.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\ko\System.Spatial.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\ru\System.Spatial.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\obj\Debug\SignalR.Migrations.Initial.resources
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\obj\Debug\SignalR.csproj.GenerateResource.Cache
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\obj\Debug\SignalR.dll
+C:\Users\Pankaj\documents\visual studio 2015\Projects\SignalR\SignalR\obj\Debug\SignalR.pdb
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\ApplicationInsights.config
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\roslyn\csc.exe
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\roslyn\csc.exe.config
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\roslyn\csc.rsp
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\roslyn\csi.exe
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\roslyn\csi.rsp
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\roslyn\System.AppContext.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\roslyn\System.Console.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\roslyn\vbc.exe
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\roslyn\vbc.exe.config
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\roslyn\vbc.rsp
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\SignalR.dll.config
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\SignalR.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\SignalR.pdb
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Antlr3.Runtime.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\EntityFramework.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\EntityFramework.SqlServer.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Microsoft.AI.Web.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Microsoft.AspNet.OData.Extensions.ODataQueryMapper.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Microsoft.Data.Edm.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Microsoft.Data.OData.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Microsoft.OData.Core.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Microsoft.OData.Edm.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Microsoft.Owin.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Microsoft.Owin.Security.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Microsoft.Spatial.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Newtonsoft.Json.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Owin.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\System.Net.Http.Formatting.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\System.Spatial.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\System.Web.Cors.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\System.Web.Helpers.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\System.Web.Http.Cors.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\System.Web.Http.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\System.Web.Http.OData.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\System.Web.Http.Tracing.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\System.Web.Http.WebHost.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\System.Web.Mvc.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\System.Web.OData.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\System.Web.Optimization.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\System.Web.Razor.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\System.Web.WebPages.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\WebGrease.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Antlr3.Runtime.pdb
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\EntityFramework.xml
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\EntityFramework.SqlServer.xml
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Microsoft.AI.Web.xml
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Microsoft.Data.Edm.xml
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Microsoft.Data.OData.xml
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Microsoft.OData.Core.xml
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Microsoft.OData.Edm.xml
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Microsoft.Owin.xml
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Microsoft.Owin.Security.xml
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Microsoft.Spatial.xml
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\Newtonsoft.Json.xml
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\System.Spatial.xml
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\System.Web.Http.Cors.xml
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\System.Web.Http.OData.xml
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\System.Web.Http.Tracing.xml
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\System.Web.OData.xml
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\System.Net.Http.Formatting.xml
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\System.Web.Helpers.xml
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\System.Web.Http.xml
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\System.Web.Http.WebHost.xml
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\System.Web.Mvc.xml
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\System.Web.Optimization.xml
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\System.Web.Razor.xml
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\System.Web.WebPages.xml
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\de\Microsoft.OData.Core.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\es\Microsoft.OData.Core.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\fr\Microsoft.OData.Core.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\it\Microsoft.OData.Core.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\ja\Microsoft.OData.Core.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\ko\Microsoft.OData.Core.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\ru\Microsoft.OData.Core.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\zh-Hans\Microsoft.OData.Core.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\zh-Hant\Microsoft.OData.Core.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\de\Microsoft.OData.Edm.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\es\Microsoft.OData.Edm.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\fr\Microsoft.OData.Edm.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\it\Microsoft.OData.Edm.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\ja\Microsoft.OData.Edm.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\ko\Microsoft.OData.Edm.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\ru\Microsoft.OData.Edm.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\zh-Hans\Microsoft.OData.Edm.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\zh-Hant\Microsoft.OData.Edm.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\de\Microsoft.Spatial.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\es\Microsoft.Spatial.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\fr\Microsoft.Spatial.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\it\Microsoft.Spatial.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\ja\Microsoft.Spatial.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\ko\Microsoft.Spatial.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\ru\Microsoft.Spatial.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\zh-Hans\Microsoft.Spatial.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\zh-Hant\Microsoft.Spatial.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\de\System.Spatial.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\es\System.Spatial.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\fr\System.Spatial.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\it\System.Spatial.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\ja\System.Spatial.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\ko\System.Spatial.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\ru\System.Spatial.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\obj\Debug\SignalR.csprojResolveAssemblyReference.cache
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\obj\Debug\SignalR.Migrations.Initial.resources
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\obj\Debug\SignalR.Migrations.addlockedproperty.resources
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\obj\Debug\SignalR.csproj.GenerateResource.Cache
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\obj\Debug\SignalR.dll
+C:\Users\Pankaj\Documents\ImportantProjects\SignalR\SignalR\obj\Debug\SignalR.pdb
